@@ -5,6 +5,6 @@ public struct swift_diagnose_api_breaking_changes_test {
     }
 }
 
-public enum manualBreakingEnumerationTest {
+public enum manualBreakingEnumerationTest : String {
   case one = "No break"
 }
