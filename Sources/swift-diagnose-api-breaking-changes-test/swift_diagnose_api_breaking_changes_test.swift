@@ -6,5 +6,5 @@ public struct swift_diagnose_api_breaking_changes_test {
 }
 
 public enum manualBreakingEnumerationTest {
-  case manualBreak_1
+  case manualBreak_2
 }
