@@ -5,6 +5,6 @@ public struct swift_diagnose_api_breaking_changes_test {
     }
 }
 
-public enum manualBreakingEnumerationTest : Int {
-  case manualBreak = 2
+public enum manualBreakingEnumerationTest {
+  case manualBreak_1
 }
